@@ -9,3 +9,8 @@ Recoded the codes for the exercise from web.
 
 	1.2 Games:
 		a. Add c-lang/games/guess_numbers/guess_numbers.c (2017/02/03)
+
+2. Add shell-script to store the shell script related codes.
+	2.1 replace_funcs (2017/04/05)
+		To replace funcA to funcB
+
